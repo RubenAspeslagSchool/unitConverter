@@ -42,6 +42,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVtcGVyYXR1cmVcVGVtcGVyYXR1cmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/Volueme/VolumeFromImperial.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVm9sdWVtZVxWb2x1bWVGcm9tSW1wZXJpYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/Volueme/VolumeFromMetric.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVm9sdWVtZVxWb2x1bWVGcm9tTWV0cmljLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/Volueme/VolumeUnits.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVm9sdWVtZVxWb2x1bWVVbml0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
