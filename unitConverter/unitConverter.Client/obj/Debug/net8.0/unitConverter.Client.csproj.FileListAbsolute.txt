@@ -1026,3 +1026,4 @@ C:\Users\ruben\Desktop\files\HOWEST\s4\.net\Ex\unitConverter\unitConverter\unitC
 C:\Users\ruben\Desktop\files\HOWEST\s4\.net\Ex\unitConverter\unitConverter\unitConverter.Client\obj\Debug\net8.0\refint\unitConverter.Client.dll
 C:\Users\ruben\Desktop\files\HOWEST\s4\.net\Ex\unitConverter\unitConverter\unitConverter.Client\obj\Debug\net8.0\unitConverter.Client.pdb
 C:\Users\ruben\Desktop\files\HOWEST\s4\.net\Ex\unitConverter\unitConverter\unitConverter.Client\obj\Debug\net8.0\ref\unitConverter.Client.dll
+C:\Users\ruben\Desktop\files\HOWEST\s4\.net\Ex\unitConverter\unitConverter\unitConverter.Client\obj\Debug\net8.0\unitConverter.Client.sourcelink.json

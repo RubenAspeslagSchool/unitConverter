@@ -2,21 +2,18 @@
 
 <div id="fromMetric">
     <div class="form-group">
-        <label for="KM">KM</label>
         <InputNumber id="KM" @bind-Value="distanceUnitModel.MetricUnits.Kilometer" class="form-control" />
-
-        <label for="M">M</label>
+        <label for="KM">KM</label>
         <InputNumber id="M" @bind-Value="distanceUnitModel.MetricUnits.Meter" class="form-control" />
-
-        <label for="DM">DM</label>
+        <label for="M">M</label>
         <InputNumber id="DM" @bind-Value="distanceUnitModel.MetricUnits.Decimeter" class="form-control" />
-
-        <label for="CM">CM</label>
+        <label for="DM">DM</label>
         <InputNumber id="CM" @bind-Value="distanceUnitModel.MetricUnits.Centimeter" class="form-control" />
-
-        <label for="MM">MM</label>
+        <label for="CM">CM</label>
         <InputNumber id="MM" @bind-Value="distanceUnitModel.MetricUnits.Milimeter" class="form-control" />
+        <label for="MM">MM</label>
     </div>
+
 </div>
 
 @code {
