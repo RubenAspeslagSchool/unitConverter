@@ -26,16 +26,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/DistanceFromImperial.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdGFuY2VGcm9tSW1wZXJpYWwucmF6b3I=
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/Distance/DistanceFromImperial.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdGFuY2VcRGlzdGFuY2VGcm9tSW1wZXJpYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/DistanceFromMatric.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdGFuY2VGcm9tTWF0cmljLnJhem9y
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/Distance/DistanceFromMatric.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdGFuY2VcRGlzdGFuY2VGcm9tTWF0cmljLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/DistanceUnits.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdGFuY2VVbml0cy5yYXpvcg==
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/Distance/DistanceUnits.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzdGFuY2VcRGlzdGFuY2VVbml0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/Pages/temperature/Temperature.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVtcGVyYXR1cmVcVGVtcGVyYXR1cmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ruben/Desktop/files/HOWEST/s4/.net/Ex/unitConverter/unitConverter/unitConverter.Client/_Imports.razor]
