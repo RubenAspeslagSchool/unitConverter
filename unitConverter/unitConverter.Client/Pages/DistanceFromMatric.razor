@@ -13,6 +13,24 @@
         <InputNumber id="MM" @bind-Value="distanceUnitModel.MetricUnits.Milimeter" class="form-control" />
         <label for="MM">MM</label>
     </div>
+    <h3>conversions</h3>
+    <div class="conversions">
+        <div class="metric">
+            <h4>metric conversions</h4>
+            <p>@distanceUnitModel.MetricUnits.ToKilometer() KM</p>
+            <p>@distanceUnitModel.MetricUnits.ToMeter() M</p>
+            <p>@distanceUnitModel.MetricUnits.ToDecimeter() DM</p>
+            <p>@distanceUnitModel.MetricUnits.ToCentimeter() CM</p>
+            <p>@distanceUnitModel.MetricUnits.ToMilimeter() MM</p>
+        </div>
+        <div class="imperial">
+            <h4>imperial conversions</h4>
+            <p>@distanceUnitModel.MetricUnits.ToImperial().Miles miles</p>
+            <p>@distanceUnitModel.MetricUnits.ToImperial().Yards yards</p>
+            <p>@distanceUnitModel.MetricUnits.ToImperial().Feet feed</p>
+            <p>@distanceUnitModel.MetricUnits.ToImperial().Inches inch</p>
+        </div>
+    </div>
 
 </div>
 

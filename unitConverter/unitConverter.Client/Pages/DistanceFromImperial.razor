@@ -12,6 +12,23 @@
         <label for="Inches">Inches</label>
 
     </div>
+    <h3>conversions</h3>
+    <div class="conversions">
+        <div class="imperial">
+            <h4>Imperial Conversions</h4>
+            <p>@distanceUnitModel.ImperialUnits.ToMiles() miles</p>
+            <p>@distanceUnitModel.ImperialUnits.ToYards() yards</p>
+            <p>@distanceUnitModel.ImperialUnits.ToFeet() feet</p>
+            <p>@distanceUnitModel.ImperialUnits.ToInches() inches</p>
+        </div>
+        <div class="metric">
+            <h4>Metric Conversions</h4>
+            <p>@distanceUnitModel.ImperialUnits.ToMetric().Kilometer KM</p>
+            <p>@distanceUnitModel.ImperialUnits.ToMetric().Meter M</p>
+            <p>@distanceUnitModel.ImperialUnits.ToMetric().Centimeter CM</p>
+            <p>@distanceUnitModel.ImperialUnits.ToMetric().Milimeter MM</p>
+        </div>
+    </div>
 </div>
 
 @code {
