@@ -1,0 +1,25 @@
+﻿@using unitConverter.Client.Models.Distance
+
+<div id="fromMetric">
+    <div class="form-group">
+        <label for="KM">KM</label>
+        <InputNumber id="KM" @bind-Value="distanceUnitModel.MetricUnits.Kilometer" class="form-control" />
+
+        <label for="M">M</label>
+        <InputNumber id="M" @bind-Value="distanceUnitModel.MetricUnits.Meter" class="form-control" />
+
+        <label for="DM">DM</label>
+        <InputNumber id="DM" @bind-Value="distanceUnitModel.MetricUnits.Decimeter" class="form-control" />
+
+        <label for="CM">CM</label>
+        <InputNumber id="CM" @bind-Value="distanceUnitModel.MetricUnits.Centimeter" class="form-control" />
+
+        <label for="MM">MM</label>
+        <InputNumber id="MM" @bind-Value="distanceUnitModel.MetricUnits.Milimeter" class="form-control" />
+    </div>
+</div>
+
+@code {
+    [Parameter] public DistanceModel? distanceUnitModel { get; set; }
+
+}
